@@ -1,8 +1,4 @@
 
-## Introduction
-
-The goal of the capstone project is to create a predictive text model using a large text corpus of documents as training data. Natural language processing techniques will be used to perform the analysis.
-
 ## Loading (Blogs, News, Twitter)
 ```{r}
 setwd("D:/Coursera/Coursera-SwiftKey/final/en_US")
