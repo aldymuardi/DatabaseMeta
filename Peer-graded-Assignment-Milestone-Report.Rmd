@@ -1,9 +1,4 @@
----
-title: "Data Science Capstone Peer-graded Assignment: Milestone Report"
-author: "Enrique Estrada"
-date: "October 19, 2018"
-output: html_document
----
+
 ## Introduction
 
 The goal of the capstone project is to create a predictive text model using a large text corpus of documents as training data. Natural language processing techniques will be used to perform the analysis.
